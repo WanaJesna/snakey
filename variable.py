@@ -8,3 +8,7 @@ y=15
 print(x + y)
 
 print("i am a girl") # this is a commment
+
+
+#the sum of 10 and 5 is 15
+print("the sum of ",a,"and" ,b, "is" ,a+b)
